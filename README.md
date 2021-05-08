@@ -2,4 +2,4 @@
 
 ![](diabetes_app_gif.gif)
 
-![Screenshot](dia_app.png)
+![Screenshot](dia_app.PNG)
